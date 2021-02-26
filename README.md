@@ -3,7 +3,8 @@
 ### Incipit
 Logos ./ Physics ./ Ethics ./
 ### About me
-* Ph.D in Philosophy of sciences - John Hopkins and University of Paris VIII
+Israeli but born and raised in France. 
+* Ph.D studies in Philosophy of sciences - John Hopkins and University of Paris VIII
 * MA in Theory of Literature - Suma Cum Laude - Tel Aviv University 
 * BA in Literature, Philosophy and History - Tel Aviv University 
 * Published author 
