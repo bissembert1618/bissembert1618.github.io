@@ -1,7 +1,7 @@
 # Ethics in tech
 ## About ethics in technology from a builder perspective
 ### Incipit
-Logos /. Physics /. Ethics
+Logos ./ Physics ./ Ethics ./
 ### About me
 * Ph.D in Philosophy of sciences - John Hopkins and University of Paris VIII
 * MA in Theory of Literature - Suma Cum Laude - Tel Aviv University 
