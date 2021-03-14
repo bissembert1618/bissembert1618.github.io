@@ -35,6 +35,9 @@ Israeli but born and raised in France.
 * [Privacy in Japan](https://github.com/bissembert1618/bissembert1618.github.io/blob/master/privacyinjapan.md)
 * [On Proudhon and Governance - some notes](https://github.com/bissembert1618/bissembert1618.github.io/blob/master/proudhon_essay_french)
 
+### Poetry (French)
+* [La Reine noire](https://github.com/bissembert1618/bissembert1618.github.io/blob/master/La_Reine_Noire)
+
 ### Contact me
 * Email: bissembert (a) me . com
 * Signal: +972-54-326-6064
