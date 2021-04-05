@@ -14,7 +14,7 @@ Israeli but born and raised in France.
 ### Projects
 * [Concordium](https://github.com/Concordium) - PoS Layer-1 Blockchain based on a 2-layer design with an ID layer at the protocol level, designed for the Enteprise world.
     * developed in RustLang and Haskell 
-    * Smart Contract coded in Rust
+    * Smart Contract coded in RustLang
 * [Beam Privacy](https://github.com/BeamMW) - PoW private Cryptocurrency and DeFi Platform based on Mimblewimble. 
     * developed in C
 * [Kylin Network](https://github.com/Kylin-Network) - The Data Infrastructure for DeFi and Web 3.0 Powered by Polkadot
@@ -39,6 +39,14 @@ Israeli but born and raised in France.
 * [La Reine noire](https://github.com/bissembert1618/bissembert1618.github.io/blob/master/La_Reine_Noire)
 * [Les voiles de Maya](https://github.com/bissembert1618/bissembert1618.github.io/blob/master/Les%20voiles%20de%20Maya.pdf)
 * [Silences](https://github.com/bissembert1618/bissembert1618.github.io/blob/master/Silences)
+
+### Supporting initiatives
+* [RustFest Global](https://github.com/rustfesteu)
+* [Natives in Tech](https://nativesintech.org)
+* [Rust-Analyzer](https://github.com/rust-analyzer)
+* [Voskcoin](https://www.youtube.com/channel/UCT44w6854K62cSiwA1aiXfw)
+* [Animal Aid](https://www.animalaidunlimited.org)
+* [תנו לחיות לחיות](https://www.letlive.org.il)
 
 ### Contact me
 * Email: bissembert (a) me . com
